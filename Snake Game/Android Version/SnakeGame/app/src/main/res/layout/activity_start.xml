@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:background="@drawable/background"
+    tools:context="com.example.kalpesh.snakegame.start">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="monospace"
+        android:forceHasOverlappingRendering="false"
+        android:text="Snake Game"
+        android:textColor="@android:color/black"
+        android:textSize="40sp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:background="@android:color/transparent"
+        android:fontFamily="cursive"
+        android:onClick="startGame"
+        android:text="START"
+        android:textSize="32sp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:background="@android:color/transparent"
+        android:fontFamily="cursive"
+        android:onClick="showHighScore"
+        android:text="HIGH SCORE"
+        android:textSize="32sp" />
+
+    <Button
+        android:id="@+id/soundLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:background="@android:color/transparent"
+        android:fontFamily="cursive"
+        android:onClick="muteSound"
+        android:text="SOUND OFF"
+        android:textSize="32sp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:background="@android:color/transparent"
+        android:fontFamily="cursive"
+        android:onClick="exitGame"
+        android:text="EXIT"
+        android:textSize="32sp" />
+
+
+</LinearLayout>
