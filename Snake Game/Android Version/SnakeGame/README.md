@@ -11,6 +11,8 @@
 | 5. | `SnakeView.java` | all snake game logic is implemented in this file |
 | 6. | `start.java`	| the start page is shown to the user |
 
+>Path to goto these file : `app/src/main/java/com/example/kalpesh/snakegame/`
+
 - I have added two assets file which is the sound file for the app.
 
 - There are total 5 layout XML pages in the app as follows:
