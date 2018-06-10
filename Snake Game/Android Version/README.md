@@ -11,6 +11,9 @@ I have used canvas to draw the snake and field using drawrect and other method c
 Also I have created one thread to run the snake code to have user freedom of doing other things in main thread.
 Also for storing high score of user I have used SharedPreferences to store it in `GAME_DATA` file.
 
+## Running Game
+
+Install APK file: [`SnakeGame.apk`](https://github.com/kalpeshdusane/Fun-Coding-for-Games/blob/master/Snake%20Game/Android%20Version/SnakeGame.apk)
 
 <!-- Markdown link & img dfn's -->
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
