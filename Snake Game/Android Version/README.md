@@ -10,6 +10,7 @@ Also as score increases speed of snake will increase.
 I have used canvas to draw the snake and field using drawrect and other method calls.
 Also I have created one thread to run the snake code to have user freedom of doing other things in main thread.
 Also for storing high score of user I have used SharedPreferences to store it in `GAME_DATA` file.
+check the code at folder [`SnakeGame`](https://github.com/kalpeshdusane/Fun-Coding-for-Games/tree/master/Snake%20Game/Android%20Version/SnakeGame).
 
 ## Running Game
 
