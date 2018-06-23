@@ -16,6 +16,18 @@ check the code at folder [`SnakeGame`](https://github.com/kalpeshdusane/Fun-Codi
 
 Install APK file: [`SnakeGame.apk`](https://github.com/kalpeshdusane/Fun-Coding-for-Games/blob/master/Snake%20Game/Android%20Version/SnakeGame.apk)
 
+## Screenshot of the game app
+
+![image](readmeImage/game1.png)
+
+![image](readmeImage/game2.png)
+
+![image](readmeImage/game3.png)
+
+![image](readmeImage/game4.png)
+
+![image](readmeImage/game5.png)
+
 ## Acknowledgement
 
 Most of the coding is followed from the article on this [website: gamecodeschool](http://gamecodeschool.com/android/coding-a-snake-game-for-android/) by John Horton
