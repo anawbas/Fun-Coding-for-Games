@@ -16,6 +16,10 @@ check the code at folder [`SnakeGame`](https://github.com/kalpeshdusane/Fun-Codi
 
 Install APK file: [`SnakeGame.apk`](https://github.com/kalpeshdusane/Fun-Coding-for-Games/blob/master/Snake%20Game/Android%20Version/SnakeGame.apk)
 
+## Acknowledgement
+
+Most of the coding is followed from the article on this [website: gamecodeschool](http://gamecodeschool.com/android/coding-a-snake-game-for-android/) by John Horton
+
 <!-- Markdown link & img dfn's -->
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
