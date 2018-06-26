@@ -11,7 +11,7 @@ This app is classic snake game where the user can play the game and store high s
 
 - I have used canvas to draw the snake and field using drawrect and other method calls.
 - I have created one thread to run the snake code to have user freedom of doing other things in main thread.
-- For storing high score of user I have used SharedPreferences to store it in `GAME_DATA` file.
+- For storing high score of user I have used **SharedPreferences** to store it in `GAME_DATA` file.
 - Check the code at folder [`SnakeGame`](https://github.com/kalpeshdusane/Fun-Coding-for-Games/tree/master/Snake%20Game/Android%20Version/SnakeGame).
 
 ## Running Game
