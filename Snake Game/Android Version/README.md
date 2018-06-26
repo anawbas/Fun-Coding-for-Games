@@ -2,8 +2,10 @@
 
 This app is classic snake game where the user can play the game and store high score.
 
-In this game snake will die i.e. game will be over if snake hits the wall or its head get stuck with its body.
-Also as score increases speed of snake will increase.
+## Functionality
+
+- In this game snake will die i.e. game will be over if snake hits the wall or its head get stuck with its body.
+- As score increases speed of snake will increase.
 
 ## Code explanation
 
